@@ -6,7 +6,6 @@
 #-------------------------------------------------------------------------------
 # This script will install Odoo on your Debian 10.0 server. It can install multiple Odoo instances
 # in one Debian because of the different xmlrpc_ports
-#-------------------------------------------------------------------------------
 # Make a new file:
 # sudo nano odoo-install.sh
 # Place this content in it and then make the file executable:
